@@ -4,6 +4,10 @@ Hi guys!
 
 This is my submission for the take-home portion of the coding challenge.
 
+## Live Preview
+
+I have a deployed a live version of the site using Vercel. You can view it [here](https://drsquatch-challenge.vercel.app/).
+
 ## Running The Project Locally
 
 ```sh
